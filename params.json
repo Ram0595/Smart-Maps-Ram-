@@ -1,0 +1,6 @@
+{
+  "name": "Smart-maps-ram-",
+  "tagline": "",
+  "body": "Passengers usually when they are new to any place find the vehicles available for destination at Transport Corporation but cannot find the nearest stops available for the destination instantly from any location. Also, Passengers cannot catch the vehicle if it has left the stop already if they don’t have the knowledge in at what time they can reach the stop to catch the bus. Transport Corporation can track the buses by using Geo-Tracking Devices fixed to the vehicles and shows the tracking information to the users using SmartMaps.\r\n\t\r\nTo implement the Geo-Tracking of vehicles we assume the vehicle’s driver mobile phone as a tracker to send the current location information of vehicles to the servers. An Android App is installed in the mobile phone that gets the current location, distance from the current location of the vehicle to the stop and times to reach that stop. The Technology stack of SmartMaps is Open Source. All components and modules are developed using Open Source Softwares in Open Source Operating System with a great freedom, security, customizability, flexibility and free of cost.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
